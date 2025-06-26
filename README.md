@@ -3,6 +3,8 @@
 A modern web app to upload PDF documents and chat with them using advanced AI. Supports text and table extraction, multi-turn conversational context, and a beautiful dark UI inspired by GPT/Claude.
 
 ---
+![Screenshot 2025-06-26 135212](https://github.com/user-attachments/assets/e6ce9b26-6fd0-4c8d-b85e-d383bd4e126c)
+
 
 ## 🚀 Features
 
@@ -28,7 +30,7 @@ A modern web app to upload PDF documents and chat with them using advanced AI. S
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/pdf_qa.git
+git clone https://github.com/O-Aditya/PDF_QA
 cd pdf_qa
 ```
 
@@ -51,6 +53,8 @@ python main.py
 - The app will connect to the backend at `localhost:5000`
 
 ---
+![Screenshot 2025-06-26 134824](https://github.com/user-attachments/assets/7f39e1e1-6dff-4fdd-ac7a-a48799b87d98)
+
 
 ## 🧑‍💻 API Endpoints
 
