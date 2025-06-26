@@ -15,7 +15,7 @@ import shutil
 
 # === FLASK APP CONFIGURATION ===
 app = Flask(__name__)
-CORS(app)  # Enable CORS for frontend communication
+CORS(app, origins=["https://o-aditya.github.io", "null"])  # Allow GitHub Pages and local files
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
